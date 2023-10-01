@@ -1,7 +1,7 @@
 Prazer, me chamo Felipe 👋
 - 🧑🏻‍💻 Atualmente faço Ciência da Computação, no momento estou estudando tunelamento quântico, tipos de arquitetura e tipos de memória.
+- 💬 Vamos conversar sobre física quântica? Ainda não detenho grande conhecimento sobre, mas tenho gostado bastante de falar sobre.
 - 🧑🏻‍🤝‍🧑🏻 Espero poder colaborar em grandes projetos para expandir meu conhecimento.
-- 💬 Vamos conversar sobre física quântica? Ainda estou no básico mas tenho gostado bastante de falar sobre. 
 - 📫 Me chame no meu e-mail - felipeon3ves@gmail.com ou no meu discord - apenasf3lipe
 
 <div>
